@@ -12,6 +12,8 @@ public class Kawasaki
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.kawasaki-india.com/");
 		Reporter.log("Baja Launched",true);
+		
+		Reporter.log("srushti added extra need to sync fork",true);
 	}
 
 }
